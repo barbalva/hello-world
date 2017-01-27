@@ -1,3 +1,10 @@
 h1 {
   color: blue;
 }
+
+p.red {
+  color:red;
+}
+p.blue {
+  color:blue;
+}
